@@ -1,0 +1,36 @@
+LHD	DataTang-v1.2
+DBN
+SES	category
+CMT	*** Speech Label Information ***
+FIP	data/category/000519_4.wav
+CCD	food
+REP	indoor
+RED
+RET
+CMT	*** Speech Data Coding ***
+SAM	16000
+SNB	2
+SBF	lohi
+SSB	16
+QNT	wav
+NCH	1
+CMT	*** Speaker Information ***
+SCD	O1
+SEX	O1_Female
+AGE	
+ACC	
+ACT	
+BIR	
+CMT	*** Recording Conditions ***
+SNQ
+MIP	close
+MIT	
+SCC	Quiet
+CMT	*** Label File Body ***
+LBD	000519_4.txt
+LBR	467.6143125
+LBO	344.9163198849162
+CMT	*** Customized Label Body ***
+SRA
+EMO
+ORS	
